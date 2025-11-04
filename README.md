@@ -18,6 +18,18 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+
+# 2025-11
+- [Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting](https://arxiv.org/abs/2503.22204) <kbd>NeurIPS 2025</kbd>
+- [PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting](https://arxiv.org/pdf/2510.18714) <kbd>NeurIPS 2025</kbd>
+- [SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving](https://arxiv.org/pdf/2509.16588) <kbd>NeurIPS 2025</kbd>
+- [LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering](https://arxiv.org/pdf/2505.23158) <kbd>NeurIPS 2025</kbd>
+- [CLIPGaussian: Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://arxiv.org/pdf/2505.22854) <kbd>NeurIPS 2025</kbd>
+- [SAP: Exact Sorting in Splatting via Screen-Aligned Primitives](https://openreview.net/pdf/1d99de0ea1187c321b3033cd73a374eefe6789d8.pdf) <kbd>NeurIPS 2025</kbd>
+- [Deep Gaussian from Motion: Exploring 3D Geometric Foundation Models for Gaussian Splatting]() <kbd>NeurIPS 2025</kbd>
+- [IBGS: Image-Based Gaussian Splatting]() <kbd>NeurIPS 2025</kbd>
+- [TreeSplat: Mergeable Tree for Deformable Gaussian Splatting](https://openreview.net/pdf?id=5BfO9i4kj1) <kbd>NeurIPS 2025</kbd>
+
 # 2025-10
 - [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/abs/2410.10733) <kbd>ICLR 2025</kbd> Autoencoder + GAN
 - [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300) Autoencoder + GAN
