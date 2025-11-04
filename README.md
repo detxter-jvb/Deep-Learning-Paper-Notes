@@ -20,8 +20,10 @@ For example, the understanding score is based on the checklists
 
 
 # 2025-11
+- [VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting](https://arxiv.org/pdf/2510.23205) <kbd>NeurIPS 2025</kbd>
 - [GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.00034) <kbd>NeurIPS 2025 Spotlight</kbd>
 - [Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study](https://arxiv.org/pdf/2510.21160) <kbd>NeurIPS 2025 Spotlight</kbd>
+
 
 
 - [Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting](https://arxiv.org/abs/2503.22204) <kbd>NeurIPS 2025</kbd>
