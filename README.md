@@ -20,6 +20,7 @@ For example, the understanding score is based on the checklists
 
 
 # 2025-11
+- [Targetless LiDAR-Camera Calibration with Neural Gaussian Splatting](https://arxiv.org/pdf/2504.04597)
 - [A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets](https://arxiv.org/pdf/2406.12080)
 
   Must be referred for alpha blending and redering insight
