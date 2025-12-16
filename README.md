@@ -18,6 +18,9 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+# 2025-12
+- [pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction](https://arxiv.org/pdf/2312.12337)
+
 
 # 2025-11
 - [Targetless LiDAR-Camera Calibration with Neural Gaussian Splatting](https://arxiv.org/pdf/2504.04597)
