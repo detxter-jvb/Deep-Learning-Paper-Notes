@@ -24,7 +24,7 @@ For example, the understanding score is based on the checklists
 
 # 2025-11
 - [Targetless LiDAR-Camera Calibration with Neural Gaussian Splatting](https://arxiv.org/pdf/2504.04597)
-- [A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets](https://arxiv.org/pdf/2406.12080) be referred for alpha blending and redering insight
+- [A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets](https://arxiv.org/pdf/2406.12080) must be referred for alpha blending and redering insight
 - [VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting](https://arxiv.org/pdf/2510.23205) <kbd>NeurIPS 2025</kbd>
 - [GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.00034) <kbd>NeurIPS 2025 Spotlight</kbd>
 - [Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study](https://arxiv.org/pdf/2510.21160) <kbd>NeurIPS 2025 Spotlight</kbd>
