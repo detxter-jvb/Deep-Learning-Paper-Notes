@@ -24,13 +24,10 @@ For example, the understanding score is based on the checklists
 
 # 2025-11
 - [Targetless LiDAR-Camera Calibration with Neural Gaussian Splatting](https://arxiv.org/pdf/2504.04597)
-- [A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets](https://arxiv.org/pdf/2406.12080)
-  Must be referred for alpha blending and redering insight
-
+- [A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets](https://arxiv.org/pdf/2406.12080) be referred for alpha blending and redering insight
 - [VR-Drive: Viewpoint-Robust End-to-End Driving with Feed-Forward 3D Gaussian Splatting](https://arxiv.org/pdf/2510.23205) <kbd>NeurIPS 2025</kbd>
 - [GaussianFusion: Gaussian-Based Multi-Sensor Fusion for End-to-End Autonomous Driving](https://arxiv.org/pdf/2506.00034) <kbd>NeurIPS 2025 Spotlight</kbd>
 - [Towards Physics-informed Spatial Intelligence with Human Priors: An Autonomous Driving Pilot Study](https://arxiv.org/pdf/2510.21160) <kbd>NeurIPS 2025 Spotlight</kbd>
-
 - [Segment then Splat: Unified 3D Open-Vocabulary Segmentation via Gaussian Splatting](https://arxiv.org/abs/2503.22204) <kbd>NeurIPS 2025</kbd>
 - [PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting](https://arxiv.org/pdf/2510.18714) <kbd>NeurIPS 2025</kbd>
 - [SQS: Enhancing Sparse Perception Models via Query-based Splatting in Autonomous Driving](https://arxiv.org/pdf/2509.16588) <kbd>NeurIPS 2025</kbd>
