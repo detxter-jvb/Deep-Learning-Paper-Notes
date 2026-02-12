@@ -19,8 +19,9 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-02
-
-
+- [Optimized Minimal 3D Gaussian Splatting](https://arxiv.org/pdf/2503.16924)
+- [RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS](https://arxiv.org/pdf/2403.13806)
+- [LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering](https://arxiv.org/pdf/2505.23158)
 
 # 2025-12
 - [pixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction](https://arxiv.org/pdf/2312.12337) <kbd>CVPR 2024</kbd>
