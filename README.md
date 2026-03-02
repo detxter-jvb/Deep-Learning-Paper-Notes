@@ -18,6 +18,9 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+# 2026-03
+- [TFusionOcc: Student’s t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction](https://arxiv.org/html/2602.06400v1)
+
 # 2026-02
 - [Optimized Minimal 3D Gaussian Splatting](https://arxiv.org/pdf/2503.16924)
 - [RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS](https://arxiv.org/pdf/2403.13806)
