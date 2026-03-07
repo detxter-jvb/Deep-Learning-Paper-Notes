@@ -19,6 +19,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-03
+- [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/pdf/2212.08051)
 - [VG3T: Visual Geometry Grounded Gaussian Transformer](https://arxiv.org/pdf/2512.05988) <kbd>ICRA 2026</kbd>
 - [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](https://arxiv.org/pdf/2512.01540)
 - [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651) <kbd>CVPR 2025</kbd>
