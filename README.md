@@ -25,7 +25,7 @@ For example, the understanding score is based on the checklists
 - [VG3T: Visual Geometry Grounded Gaussian Transformer](https://arxiv.org/pdf/2512.05988) <kbd>ICRA 2026</kbd>
 - [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](https://arxiv.org/pdf/2512.01540)
 - [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/pdf/2503.11651) <kbd>CVPR 2025</kbd>
-- [Neural Atlas Graphs for Dynamic Scene Decomposition and Editing](https://arxiv.org/pdf/2509.16336) <kdb>NeurIPS 2025</kbd>
+- [Neural Atlas Graphs for Dynamic Scene Decomposition and Editing](https://arxiv.org/pdf/2509.16336) <kbd>NeurIPS 2025</kbd>
 - [TFusionOcc: Student’s t-Distribution Based Object-Centric Multi-Sensor Fusion Framework for 3D Occupancy Prediction](https://arxiv.org/html/2602.06400v1)
 
 # 2026-02
