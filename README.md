@@ -21,7 +21,6 @@ For example, the understanding score is based on the checklists
 # 2026-03
 - [Localization Distillation for Object Detection](https://arxiv.org/pdf/2204.05957)
 - [D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement](https://arxiv.org/abs/2410.13842) <kbd>ICLR 2025 Spotlight</kbd>
-
 - [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/pdf/2104.14294)
 - [Vision Transformers for Dense Prediction](https://arxiv.org/pdf/2103.13413)
 - [Objaverse: A Universe of Annotated 3D Objects](https://arxiv.org/pdf/2212.08051)
