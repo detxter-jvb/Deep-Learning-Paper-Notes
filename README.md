@@ -8,7 +8,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # Scene Editing Paper Lists
-- https://docs.google.com/spreadsheets/d/1e4lNEmUvsQBqEZtDrfNOWLgD3AxTwn4D3MYbb1A6dKk/edit?gid=0#gid=0
+- https://docs.google.com/spreadsheets/d/1e4lNEmUvsQBqEZtDrfNOWLgD3AxTwn4D3MYbb1A6dKk/edit?usp=sharing
 
 # Paper Lists
 ### Advanced Deep Learning SNU-2023
