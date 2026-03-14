@@ -24,6 +24,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-03
+- [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233)
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) <kbd>CVPR 2022</kbd>
 - [Localization Distillation for Object Detection](https://arxiv.org/pdf/2204.05957)
 - [D-FINE: Redefine Regression Task in DETRs as Fine-grained Distribution Refinement](https://arxiv.org/abs/2410.13842) <kbd>ICLR 2025 Spotlight</kbd>
