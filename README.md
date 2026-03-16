@@ -24,6 +24,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-03
+- [Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos](https://arxiv.org/pdf/2412.03526) <kbd>NeurIPS 2025</kbd>
 - [ReSim: Reliable World Simulation for Autonomous Driving](https://arxiv.org/abs/2506.09981) <kbd>NeurIPS 2025</kbd>
 - [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/pdf/2105.05233)
 - [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752) <kbd>CVPR 2022</kbd>
