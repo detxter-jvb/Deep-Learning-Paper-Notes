@@ -22,6 +22,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-03
+- [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/pdf/2006.10739) <kbd>NeurIPS 2020</kbd>
 - [Neural Scene Graphs for Dynamic Scenes](https://openaccess.thecvf.com/content/CVPR2021/papers/Ost_Neural_Scene_Graphs_for_Dynamic_Scenes_CVPR_2021_paper.pdf) <kbd>CVPR 2021</kbd>
 - [OMNIRE: OMNI URBAN SCENE RECONSTRUCTION](https://arxiv.org/pdf/2408.16760) <kbd>ICLR 2025</kbd> NVIDIA
 - [Cosmos-Drive-Dreams:Scalable Synthetic Driving Data Generation with World Foundation Models](https://arxiv.org/pdf/2506.09042) NVIDIA
