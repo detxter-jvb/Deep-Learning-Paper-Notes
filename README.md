@@ -22,6 +22,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-03
+- [GRAPH-GUIDED SCENE RECONSTRUCTION FROM IMAGES WITH 3D GAUSSIAN SPLATTING](https://arxiv.org/pdf/2502.17377) <kbd>ICLR 2025</kbd>
 - [AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views](https://city-super.github.io/anysplat/) <kbd>SIGGRAPH 2025</kbd>
 - [Neural Atlas Graphs for Dynamic Scene Decomposition and Editing](https://arxiv.org/pdf/2509.16336) <kbd>NeurIPS 2025</kbd>
 - [Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains](https://arxiv.org/pdf/2006.10739) <kbd>NeurIPS 2020</kbd>
