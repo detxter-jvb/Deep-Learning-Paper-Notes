@@ -21,6 +21,11 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+# 2026-05
+- [Product of Experts for Visual Generation](https://openreview.net/pdf?id=dTYbqgvZmc) <kbd>ICLR 2026</kbd>
+- [Coupled Diffusion Sampling for Training-Free Multi-View Image Editing](https://arxiv.org/abs/2510.14981) <kbd>CVPR 2026</kbd>
+
+
 # 2026-03
 - [GRAPH-GUIDED SCENE RECONSTRUCTION FROM IMAGES WITH 3D GAUSSIAN SPLATTING](https://arxiv.org/pdf/2502.17377) <kbd>ICLR 2025</kbd>
 - [AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views](https://city-super.github.io/anysplat/) <kbd>SIGGRAPH 2025</kbd>
