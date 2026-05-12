@@ -22,6 +22,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-05
+- [Back to Basics: Let Denoising Generative Models Denoise](2511.13720) <kbd>CVPR 2026 Highlight</kbd>
 - [ConsistEdit: Highly Consistent and Precise Training-free Visual Editing](https://arxiv.org/pdf/2510.17803) <kbd>SIGRAPH Asia 2025</kbd>
 - [FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models](https://arxiv.org/abs/2412.08629) <kbd>ICCV 2025</kbd>
 - [Product of Experts for Visual Generation](https://openreview.net/pdf?id=dTYbqgvZmc) <kbd>ICLR 2026</kbd>
