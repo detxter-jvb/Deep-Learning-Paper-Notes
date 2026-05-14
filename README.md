@@ -24,7 +24,7 @@ For example, the understanding score is based on the checklists
 # 2026-05
 - [Mean Flows for One-step Generative Modeling](https://openreview.net/forum?id=uWj4s7rMnR) <kbd>NeurIPS 2025 Oral</kbd>
 - [Improved Mean Flows: On the Challenges of Fastforward Generative Models](https://arxiv.org/pdf/2512.02012) <kbd>CVPR 2026 Highlight</kbd>
-- [Back to Basics: Let Denoising Generative Models Denoise](2511.13720) <kbd>CVPR 2026 Highlight</kbd>
+- [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720) <kbd>CVPR 2026 Highlight</kbd>
 - [ConsistEdit: Highly Consistent and Precise Training-free Visual Editing](https://arxiv.org/pdf/2510.17803) <kbd>SIGRAPH Asia 2025</kbd>
 - [FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models](https://arxiv.org/abs/2412.08629) <kbd>ICCV 2025</kbd>
 - [Product of Experts for Visual Generation](https://openreview.net/pdf?id=dTYbqgvZmc) <kbd>ICLR 2026</kbd>
