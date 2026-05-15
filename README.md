@@ -7,6 +7,10 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
+# AI Skillset
+- https://s-choung.github.io/Research-Skills/skills/humanizer_kor/benchmark/benchmark_report.html?lang=en
+- https://www.linkedin.com/pulse/using-codex-goals-effectively-chris-hayduk-np7re/
+
 # Paper Lists
 
 ### 📣 Scene Rendering 🚀 Scene Editing
