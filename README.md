@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-05
+- [RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation](https://arxiv.org/abs/2509.16500) <kbd>NeurIPS 2025</kbd>
 - [Mean Flows for One-step Generative Modeling](https://openreview.net/forum?id=uWj4s7rMnR) <kbd>NeurIPS 2025 Oral</kbd>
 - [Improved Mean Flows: On the Challenges of Fastforward Generative Models](https://arxiv.org/pdf/2512.02012) <kbd>CVPR 2026 Highlight</kbd>
 - [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720) <kbd>CVPR 2026 Highlight</kbd>
