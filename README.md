@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-05
+- [Shadow Generation Using Diffusion Model with Geometry Prior](https://openreview.net/forum?id=yXiSPBMrTT) <kbd>CVPR 2025</kbd>
 - [COMGS: EFFICIENT 3D OBJECT-SCENE COMPOSITION VIA SURFACE OCTAHEDRAL PROBES](https://openreview.net/forum?id=yXiSPBMrTT) <kbd>ICLR 2026</kbd>
 - [JOINT SHADOW GENERATION AND RELIGHTING VIA LIGHT-GEOMETRY INTERACTION MAPS](https://openreview.net/pdf?id=yrVAA0czRz) <kbd>ICLR 2026</kbd>
 - [RLGF: Reinforcement Learning with Geometric Feedback for Autonomous Driving Video Generation](https://arxiv.org/abs/2509.16500) <kbd>NeurIPS 2025</kbd>
