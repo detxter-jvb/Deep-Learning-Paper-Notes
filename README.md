@@ -27,7 +27,7 @@ For example, the understanding score is based on the checklists
 
 # 2026-05
 - [Adversarial Diffusion Distillation](https://arxiv.org/pdf/2311.17042)
-- [RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination](RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination) <kbd>SIGGRAPH 2025</kbd>
+- [RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination](https://arxiv.org/abs/2505.21925) <kbd>SIGGRAPH 2025</kbd>
 - [Shadow Generation Using Diffusion Model with Geometry Prior](https://openreview.net/forum?id=yXiSPBMrTT) <kbd>CVPR 2025</kbd>
 - [COMGS: EFFICIENT 3D OBJECT-SCENE COMPOSITION VIA SURFACE OCTAHEDRAL PROBES](https://openreview.net/forum?id=yXiSPBMrTT) <kbd>ICLR 2026</kbd>
 - [JOINT SHADOW GENERATION AND RELIGHTING VIA LIGHT-GEOMETRY INTERACTION MAPS](https://openreview.net/pdf?id=yrVAA0czRz) <kbd>ICLR 2026</kbd>
