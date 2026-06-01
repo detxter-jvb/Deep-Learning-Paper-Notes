@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-06
+- [Unposed-to-3D: Learning Simulation-Ready Vehicles from Real-World Images](https://arxiv.org/pdf/2604.19257) <kbd>CVPR 2026</kbd>
 - [Causal Composition Diffusion Model for Closed-loop Traffic Generation](https://arxiv.org/pdf/2412.17920) <kbd>CVPR 2025</kbd>
 - [BezierGS ´ : Dynamic Urban Scene Reconstruction with Bezier Curve Gaussian Splatting](https://arxiv.org/abs/2506.22099) <kbd>ICCV 2025</kbd>
 - [ReinDriveGen: Reinforcement Post-Training for Out-of-Distribution Driving Scene Generation](https://arxiv.org/pdf/2604.01129)
