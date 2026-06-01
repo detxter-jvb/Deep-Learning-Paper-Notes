@@ -25,6 +25,9 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+# 2026-06
+- [DIFFUSIONNFT: ONLINE DIFFUSION REINFORCEMENT WITH FORWARD PROCESS](https://arxiv.org/pdf/2509.16117) <kbd>ICLR 2026 Oral</kbd>
+
 # 2026-05
 - [Adversarial Diffusion Distillation](https://arxiv.org/pdf/2311.17042) <kbd>ECCV 2024 Oral</kbd>
 - [RenderFormer: Transformer-based Neural Rendering of Triangle Meshes with Global Illumination](https://arxiv.org/abs/2505.21925) <kbd>SIGGRAPH 2025</kbd>
