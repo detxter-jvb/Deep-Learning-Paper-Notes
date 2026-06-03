@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-06
+- [PAVAS: Physics-Aware Video-to-Audio Synthesis](https://physics-aware-video-to-audio-synthesis.github.io/) <kbd>CVPR 2026 Oral</kbd>
 - [DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer](https://arxiv.org/pdf/2602.24096)
 - [Unposed-to-3D: Learning Simulation-Ready Vehicles from Real-World Images](https://arxiv.org/pdf/2604.19257) <kbd>CVPR 2026</kbd>
 - [Causal Composition Diffusion Model for Closed-loop Traffic Generation](https://arxiv.org/pdf/2412.17920) <kbd>CVPR 2025</kbd>
