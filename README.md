@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-06
+- [TrafficAlign: Aligning Large Language Models for Traffic Scenario Generation](https://openaccess.thecvf.com/content/CVPR2026/papers/Tu_TrafficAlign_Aligning_Large_Language_Models_for_Traffic_Scenario_Generation_CVPR_2026_paper.pdf) <kbd>CVPR 2026</kbd>
 - [PAVAS: Physics-Aware Video-to-Audio Synthesis](https://physics-aware-video-to-audio-synthesis.github.io/) <kbd>CVPR 2026 Oral</kbd>
 - [DiffusionHarmonizer: Bridging Neural Reconstruction and Photorealistic Simulation with Online Diffusion Enhancer](https://arxiv.org/pdf/2602.24096) <kbd>CVPR 2026</kbd>
 - [Unposed-to-3D: Learning Simulation-Ready Vehicles from Real-World Images](https://arxiv.org/pdf/2604.19257) <kbd>CVPR 2026</kbd>
