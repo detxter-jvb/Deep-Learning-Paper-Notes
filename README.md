@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-06
+- [SaFeR: Safety-Critical Scenario Generation for Autonomous Driving Test via Feasibility-Constrained Token Resampling](https://arxiv.org/pdf/2603.04071)
 - [Xiaomi Auto World Model: A Joint World Model Integrating Reconstruction and Generation for Autonomous Driving](https://arxiv.org/pdf/2605.18137)
 - [WorldSplat: Gaussian-Centric Feed-Forward 4D Scene Generation for Autonomous Driving](https://arxiv.org/pdf/2509.23402)
 - [MDG: Masked Denoising Generation for Multi-Agent Behavior Modeling in Traffic Environments](https://arxiv.org/pdf/2511.17496v1) <kbd>CVPR 2026 Findings</kbd>
