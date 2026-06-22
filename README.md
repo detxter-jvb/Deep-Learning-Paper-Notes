@@ -26,6 +26,8 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-06
+- [FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://github.com/fastgs/FastGS) <kbd>CVPR 2026</kbd>
+- [EDGS: Eliminating Densification for Efficient Convergence of 3DGS](https://github.com/CompVis/EDGS) <kbd>CVPR 2026</kbd>
 - [Physics-Aware 3D Gaussian Editing for Driving Scene Generation](https://arxiv.org/pdf/2605.25373) <kbd>arXiv, 2026-05-25</kbd>
 - [EvoDrive: Pareto Evolution for Safety-Critical Autonomous Driving via Self-Improving LLM Agents](https://arxiv.org/pdf/2606.03678) <kbd>arXiv, 2026-06-02</kbd> 
 - [RiskFlow: Fast and Faithful Safety-Critical Traffic Scenario Generation](https://arxiv.org/pdf/2606.06423) <kbd>arXiv 2026-06-04</kbd>
