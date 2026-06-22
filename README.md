@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-06
+- [RoMa: Robust Dense Feature Matching](https://arxiv.org/abs/2305.15404) <kbd>CVPR 2024</kbd>
 - [FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://github.com/fastgs/FastGS) <kbd>CVPR 2026</kbd>
 - [EDGS: Eliminating Densification for Efficient Convergence of 3DGS](https://github.com/CompVis/EDGS) <kbd>CVPR 2026</kbd>
 - [Physics-Aware 3D Gaussian Editing for Driving Scene Generation](https://arxiv.org/pdf/2605.25373) <kbd>arXiv, 2026-05-25</kbd>
