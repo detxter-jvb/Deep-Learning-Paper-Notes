@@ -26,6 +26,9 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-06
+- [ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/pdf/2605.22020v1)
+- [Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization](https://liu115.github.io/diff3r.html)
+- [InstantSplat: Sparse-view Gaussian Splatting in Seconds](https://arxiv.org/abs/2403.20309)
 - [RoMa: Robust Dense Feature Matching](https://arxiv.org/abs/2305.15404) <kbd>CVPR 2024</kbd>
 - [FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://github.com/fastgs/FastGS) <kbd>CVPR 2026</kbd>
 - [EDGS: Eliminating Densification for Efficient Convergence of 3DGS](https://github.com/CompVis/EDGS) <kbd>CVPR 2026</kbd>
