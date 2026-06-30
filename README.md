@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-06
+- [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/pdf/2310.08529)
 - [TokenGS:Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens](https://research.nvidia.com/labs/toronto-ai/tokengs/) <kbd>CVPR 2026 Highlight</kbd>
 - [ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/pdf/2605.22020v1)
 - [Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization](https://liu115.github.io/diff3r.html)
