@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-09
+- [Sparfels: Fast Reconstruction from Sparse Unposed Imagery](https://arxiv.org/pdf/2505.02178) <kbd>ICCV 2025</kbd> Normal Consistency Metric
 - [3D-ADAPTER: GEOMETRY-CONSISTENT MULTI-VIEW DIFFUSION FOR HIGH-QUALITY 3D GENERATION](https://arxiv.org/pdf/2410.18974v2) NV Realism Metric : MDD
 - [Revisiting Data Attribution for Influence Functions](https://arxiv.org/pdf/2508.07297v1) <kbd>NeurIPS 2025</kbd>
 - [DoRA: Weight-Decomposed Low-Rank Adaptation
