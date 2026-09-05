@@ -27,8 +27,8 @@ For example, the understanding score is based on the checklists
 
 # 2026-09
 - [Revisiting Data Attribution for Influence Functions](https://arxiv.org/pdf/2508.07297v1) <kbd>NeurIPS 2025</kbd>
--
-- - 
+- [DoRA: Weight-Decomposed Low-Rank Adaptation
+](https://arxiv.org/abs/2402.09353) <kbd>ICML 2024 Oral</kbd>
 # 2026-06
 - [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/pdf/2310.08529)
 - [TokenGS:Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens](https://research.nvidia.com/labs/toronto-ai/tokengs/) <kbd>CVPR 2026 Highlight</kbd>
