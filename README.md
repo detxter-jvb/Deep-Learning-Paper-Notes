@@ -25,6 +25,9 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+# 2026-10
+-[Efficient Online Data Mixing For Language Model Pre-Training](https://arxiv.org/pdf/2312.02406)
+
 # 2026-09
 - [Pseudo-Simulation for Autonomous Driving](https://arxiv.org/pdf/2506.04218) <kbd>CoRL 2025</kbd>
 - [Sparfels: Fast Reconstruction from Sparse Unposed Imagery](https://arxiv.org/pdf/2505.02178) <kbd>ICCV 2025</kbd> Normal Consistency Metric
