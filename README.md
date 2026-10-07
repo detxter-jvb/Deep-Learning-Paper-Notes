@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-10
+- [FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality](https://proceedings.mlr.press/v270/chen25b.html?utm_source=chatgpt.com)
 - [Efficient Online Data Mixing For Language Model Pre-Training](https://arxiv.org/pdf/2312.02406)
 
 # 2026-09
