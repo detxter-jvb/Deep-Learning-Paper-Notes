@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-10
+- [Learning to Weight Parameters for Training Data Attribution](https://arxiv.org/html/2506.05647?utm_source=chatgpt.com)
 - [What is Your Data Worth to GPT? LLM-Scale Data Valuation with Influence Functions](https://arxiv.org/pdf/2405.13954) <kbd>NeurIPS 2025</kbd>
 - [Influence Functions in Deep Learning Are Fragile](https://arxiv.org/pdf/2006.14651) <kbd>ICLR 2021</kbd>
 - [FREA: Feasibility-Guided Generation of Safety-Critical Scenarios with Reasonable Adversariality](https://proceedings.mlr.press/v270/chen25b.html?utm_source=chatgpt.com)
