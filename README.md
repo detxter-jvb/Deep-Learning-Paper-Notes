@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-10
+- [PiKE: Adaptive Data Mixing for Large-Scale Multi-Task Learning Under Low Gradient Conflicts](https://proceedings.neurips.cc/paper_files/paper/2025/file/f7a94134f1c726796c6f81fb946e489d-Paper-Conference.pdf) <kbd>NeurIPS 2025</kbd>
 - [Aioli: A Unified Optimization Framework for Language Model Data Mixing](https://proceedings.iclr.cc/paper_files/paper/2025/file/71cc3acb2578bdd1e52bf9f85bbb1af0-Paper-Conference.pdf) <kbd>ICLR 2025</kbd>
 - [AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining](https://proceedings.mlr.press/v306/ma26i.html?utm_source=chatgpt.com) <kbd>ICML 2026</kbd>
 - [Distributional Training Data Attribution: What do Influence Functions Sample?](https://arxiv.org/abs/2506.12965) <kbd>NeurIPS 2025</kbd>
