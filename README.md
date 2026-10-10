@@ -26,6 +26,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
 # 2026-10
+- [AC-ODM: Actor–Critic Online Data Mixing for Sample-Efficient LLM Pretraining](https://proceedings.mlr.press/v306/ma26i.html?utm_source=chatgpt.com) <kbd>ICML 2026</kbd>
 - [Distributional Training Data Attribution: What do Influence Functions Sample?](https://arxiv.org/abs/2506.12965) <kbd>NeurIPS 2025</kbd>
 - [Learning to Weight Parameters for Training Data Attribution](https://arxiv.org/html/2506.05647?utm_source=chatgpt.com) <kbd>ICLR 2026</kbd>
 - [What is Your Data Worth to GPT? LLM-Scale Data Valuation with Influence Functions](https://arxiv.org/pdf/2405.13954) <kbd>NeurIPS 2025</kbd>
